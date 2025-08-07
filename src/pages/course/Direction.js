@@ -5,7 +5,7 @@ import DirectionFAQ from '../../components/Direction_FAQ';
 import { Link } from 'react-router-dom';
 import '../text.css'
 
-import { FaArrowRight } from "react-icons/fa6";
+// import { FaArrowRight } from "react-icons/fa6";
 
 
 

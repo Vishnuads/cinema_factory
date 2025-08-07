@@ -7,8 +7,6 @@ import banner from '../images/about/banner.jpg'
 import founder from '../images/founder.jpg'
 import bussiness from '../images/about/bussiness.png'
 
-//icons
-import { FaArrowRight } from "react-icons/fa";
 
 
 

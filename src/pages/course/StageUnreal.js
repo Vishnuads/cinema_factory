@@ -1,13 +1,13 @@
 import React from 'react'
 import Slider from "react-slick";
-import VfxFAQ from '../../components/VfxFAQ';
+// import VfxFAQ from '../../components/VfxFAQ';
 import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import '../text.css'
 
 // import videoBanner from '../../images/course/virtual/vp_video.mp4'
 
-import { FaArrowRight } from "react-icons/fa6";
+// import { FaArrowRight } from "react-icons/fa6";
 
 import cflogo from '../../images/head_logo.png'
 import unreal from '../../images/unreal.png'

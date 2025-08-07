@@ -1,10 +1,10 @@
 import React from 'react'
 import Slider from "react-slick";
 import { Helmet } from 'react-helmet-async';
-import VfxFAQ from '../../components/VfxFAQ';
+// import VfxFAQ from '../../components/VfxFAQ';
 import '../text.css'
 
-import { FaArrowRight } from "react-icons/fa6";
+// import { FaArrowRight } from "react-icons/fa6";
 
 import cflogo from '../../images/head_logo.png'
 import unreal from '../../images/unreal.png'
