@@ -8,7 +8,7 @@ import 'aos/dist/aos.css'
 
 
 import Clients from '../components/Clients'
-import videoBanner from '../images/banner/vfx.mp4'
+// import videoBanner from '../../public/Videos/vfx.mp4'
 import stop from '../images/stop.jpg'
 
 import all_logo from '../images/header/all_logo.png'
@@ -526,14 +526,21 @@ const Home = () => {
                 </section>
 
 
-
                 {/* video banner */}
 
                 <section className='bg-black'>
                     <div>
-                        <video className=" w-[90%] md:w-[60%] mx-auto object-cover" autoPlay muted loop playsInline controls >
-                            <source src={videoBanner} type="video/mp4" />
-                        </video >
+                        <video
+                        className="w-[90%] md:w-[60%] mx-auto object-cover"
+                        autoPlay
+                        muted
+                        loop
+                        playsInline
+                        controls
+                        >
+                        <source src="/videos/vfx.mp4" type="video/mp4" />
+                        Your browser does not support the video tag.
+                        </video>
                     </div>
                 </section>
 
