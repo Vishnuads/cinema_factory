@@ -40,7 +40,7 @@ export const users = [
     bannerOne: rameshmobile,
     title : "Master the art of cinema and advertising from the visionary behind Oomai Vizhigal",
 
-    cjvideo : rameshvideo ,
+    // cjvideo : rameshvideo ,
 
     contentOne : 'Revolutionized Tamil cinema with the trend-setting visuals of Oomai Vizhigal',
     contentTwo : 'Popularized the cinemascope format in filmmaking.',
