@@ -5,7 +5,7 @@
 // ramesh_kumar
 import rameshbanner from '../../images/mentors/ramesh/ramesh_banner.png'
 import rameshmobile from '../../images/mentors/ramesh/ramesh_mobile.png'
-import rameshvideo from '../../images/mentors/ramesh/manoj.mp4'
+// import rameshvideo from '../../images/mentors/ramesh/manoj.mp4'
 import rameshsuccess from '../../images/mentors/ramesh/ramesh.jpg'
 
 import rameshOne from '../../images/poster/ramesh/mv1.png'

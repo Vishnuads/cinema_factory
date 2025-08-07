@@ -333,17 +333,6 @@ const Cinematography = () => {
                     <div className='w-full md:w-[90%] mx-auto'>
 
                         <div className=' font-[Prata] '>
-
-                            {/* <div className='relative overflow-hidden'>
-                                <video className='w-full object-cover h-screen md:h-auto' autoPlay muted loop playsInline >
-                                    <source src={web} type="video/mp4" className='h-screen ' />
-                                </video>
-                                <div className='absolute top-0 backdrop-blur-sm bg-yellow-300/10 inset-0'></div>
-                            </div> */}
-
-
-                            {/* <div className='absolute w-full top-8 md:top-4' > */}
-
                             <div>
                                 <div className='flex justify-center items-center w-[90%] mx-auto  '>
 

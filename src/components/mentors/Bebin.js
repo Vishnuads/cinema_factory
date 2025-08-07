@@ -19,7 +19,7 @@ import posterEight from '../../images/poster/bebin/7.jpg'
 
 
 
-import video from '../../images/mentors/stanly/stanley_video.mp4'
+// import video from '../../images/mentors/stanly/stanley_video.mp4'
 
 
 

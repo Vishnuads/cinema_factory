@@ -16,7 +16,7 @@ import posterFour from '../../images/poster/muniraj/4.png'
 import posterFive from '../../images/poster/muniraj/5.png'
 
 
-import video from '../../images/mentors/manoj/manoj.mp4'
+// import video from '../../images/mentors/manoj/manoj.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";

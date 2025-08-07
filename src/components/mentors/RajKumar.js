@@ -30,7 +30,7 @@ import bookFouteen from '../../images/poster/rajkumar/15.png'
 import bookFiften from '../../images/poster/rajkumar/16.png'
 
 
-import video from '../../images/mentors/madhu/madhu.mp4'
+// import video from '../../images/mentors/madhu/madhu.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";

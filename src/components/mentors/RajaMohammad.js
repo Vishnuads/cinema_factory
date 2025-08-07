@@ -23,7 +23,7 @@ import posterTen from '../../images/poster/raja/10.png'
 
 
 
-import video from '../../images/mentors/manoj/manoj.mp4'
+// import video from '../../images/mentors/manoj/manoj.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";

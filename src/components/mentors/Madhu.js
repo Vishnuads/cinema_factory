@@ -23,7 +23,7 @@ import posterTwel from '../../images/poster/madhu/mv12.png'
 
 
 
-import video from '../../images/mentors/madhu/madhu.mp4'
+// import video from '../../images/mentors/madhu/madhu.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";
@@ -135,7 +135,7 @@ const Madhu = () => {
 
                         <div className='flex  flex-col md:flex-row items-center justify-center gap-y-10 gap-x-20  '>
 
-                            <div className='w-full md:w-[50%] mx-auto h-full'>
+                            {/* <div className='w-full md:w-[50%] mx-auto h-full'>
 
                                 <div className='w-full h-full'>
                                     <video className='w-full object-cover h-full rounded-md' autoPlay muted loop playsInline >
@@ -143,7 +143,7 @@ const Madhu = () => {
                                     </video>
                                 </div>
 
-                            </div>
+                            </div> */}
 
                             <div className='w-full md:w-[50%] mx-auto'>
                                 <div className='flex flex-col gap-y-14 justify-center items-start'>

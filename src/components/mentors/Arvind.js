@@ -7,7 +7,6 @@ import bannerOne from '../../images/mentors/aravind/mobile_banner.png'
 
 import vfx from '../../images/mentors/aravind/super_deluxe.png'
 
-
 import posterOne from '../../images/mentors/aravind/1.png'
 import posterTwo from '../../images/mentors/aravind/2.png'
 import posterThree from '../../images/mentors/aravind/3.png'
@@ -16,8 +15,7 @@ import posterFive from '../../images/mentors/aravind/5.png'
 import posterSix from '../../images/mentors/aravind/6.png'
 import posterSeven from '../../images/mentors/aravind/7.png'
 
-
-import video from '../../images/mentors/aravind/video.mp4'
+// import video from '../../images/mentors/aravind/video.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";
@@ -129,7 +127,7 @@ const Arvind = () => {
 
                         <div className='flex  flex-col md:flex-row items-center justify-center gap-y-10 gap-x-20  '>
 
-                            <div className='w-full md:w-[50%] mx-auto h-full'>
+                            {/* <div className='w-full md:w-[50%] mx-auto h-full'>
 
                                 <div className='w-full h-full'>
                                     <video className='w-full object-cover md:h-[17rem] rounded-md' autoPlay muted loop playsInline >
@@ -137,7 +135,7 @@ const Arvind = () => {
                                     </video>
                                 </div>
 
-                            </div>
+                            </div> */}
 
                             <div className='w-full md:w-[50%] mx-auto'>
                                 <div className='flex flex-col gap-y-14 justify-center items-start'>

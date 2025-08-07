@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import '../text.css'
 
-import videoBanner from '../../images/course/virtual/vp_video.mp4'
+// import videoBanner from '../../images/course/virtual/vp_video.mp4'
 
 import { FaArrowRight } from "react-icons/fa6";
 
@@ -190,13 +190,13 @@ const StageUnreal = () => {
 
                 {/* video banner */}
 
-                <section>
+                {/* <section>
                     <div>
                         <video className="w-full object-cover" autoPlay muted loop playsInline controls >
                             <source src={videoBanner} type="video/mp4" />
                         </video >
                     </div>
-                </section>
+                </section> */}
 
 
 

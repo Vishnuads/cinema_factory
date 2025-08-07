@@ -20,7 +20,7 @@ import posterSeven from '../../images/poster/sri/7.png'
 
 
 
-import video from '../../images/mentors/madhu/madhu.mp4'
+// import video from '../../images/mentors/madhu/madhu.mp4'
 
 //icons
 import { FaStar } from "react-icons/fa6";
