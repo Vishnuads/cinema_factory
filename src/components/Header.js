@@ -4,7 +4,7 @@ import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 import { Link } from 'react-router-dom';
 import { Link as ScrollLink } from 'react-scroll';
 
-import { FaWhatsapp } from "react-icons/fa";
+// import { FaWhatsapp } from "react-icons/fa";
 import { MdOutlinePhoneAndroid } from "react-icons/md";
 
 

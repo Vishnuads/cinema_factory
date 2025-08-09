@@ -79,9 +79,9 @@ import iconTwo from '../../images/course/virtual/expert_mentor.png'
 import iconThree from '../../images/course/virtual/ai.png'
 import iconFour from '../../images/course/virtual/film_shoots.png'
 import iconFive from '../../images/course/virtual/internship.png'
-import iconSix from '../../images/course/virtual/vfx_lab.png'
-import iconSeven from '../../images/course/virtual/industry_experts.png'
-import iconEight from '../../images/course/virtual/files.png'
+// import iconSix from '../../images/course/virtual/vfx_lab.png'
+// import iconSeven from '../../images/course/virtual/industry_experts.png'
+// import iconEight from '../../images/course/virtual/files.png'
 
 
 

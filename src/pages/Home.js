@@ -11,7 +11,7 @@ import Clients from '../components/Clients'
 import videoBanner from '../images/banner/vfx.mp4'
 import stop from '../images/stop.jpg'
 
-import all_logo from '../images/header/all_logo.png'
+// import all_logo from '../images/header/all_logo.png'
 
 import rajesh_sir from '../images/about/RAJESH.png'
 
@@ -32,11 +32,11 @@ import iconFour from '../images/3icons/004-leader.png'
 import iconFive from '../images/3icons/place.png'
 import iconSix from '../images/3icons/006-visual.png'
 import iconSeven from '../images/3icons/007-universal-studio.png'
-import iconEight from '../images/3icons/008-image.png'
+// import iconEight from '../images/3icons/008-image.png'
 import iconNine from '../images/3icons/009-folder-silhouette.png'
 import iconTen from '../images/3icons/010-workshop.png'
 import iconElven from '../images/3icons/011-crew.png'
-import iconTwele from '../images/3icons/012-offer.png'
+// import iconTwele from '../images/3icons/012-offer.png'
 import iconweb from '../images/3icons/web.png'
 import iconshoot from '../images/3icons/shoot.png'
 
@@ -51,15 +51,15 @@ import { MdOutlineMail } from "react-icons/md";
 import { MdOutlinePhoneAndroid } from "react-icons/md";
 
 
-import { FaWhatsapp } from "react-icons/fa6";
-import { BsTelephoneFill } from "react-icons/bs";
+// import { FaWhatsapp } from "react-icons/fa6";
+// import { BsTelephoneFill } from "react-icons/bs";
 import Affiliated from '../components/Affiliated';
-import Workshop from '../components/Workshop';
+// import Workshop from '../components/Workshop';
 
 
 const Home = () => {
 
-    const text = "what's stopping you?";
+    // const text = "what's stopping you?";
 
     useEffect(() => {
         AOS.init({ duration: 1000 })
@@ -749,8 +749,14 @@ const Home = () => {
 
 
                             <div className=' w-full md:w-[50%] mx-auto'>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.9165469023337!2d80.24601647460486!3d13.04098381335422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267006fba7507%3A0x503e1b6f9895ffa7!2sCinema%20Factory%20Academy!5e0!3m2!1sen!2sin!4v1723875566990!5m2!1sen!2sin"
-                                    className='focus:outline-none border-none w-full h-[15rem]  md:h-[30rem]' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe 
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.9165469023337!2d80.24601647460486!3d13.04098381335422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267006fba7507%3A0x503e1b6f9895ffa7!2sCinema%20Factory%20Academy!5e0!3m2!1sen!2sin!4v1723875566990!5m2!1sen!2sin"
+                                    title="map" 
+                                    className='focus:outline-none border-none w-full h-[15rem]  md:h-[30rem]'
+                                    allowfullscreen="" 
+                                    loading="lazy" 
+                                    referrerpolicy="no-referrer-when-downgrade">
+                                </iframe>
                             </div>
 
                             <div className=' w-full md:w-[50%] h-full mx-auto bg-[#f8f8ff] font-[poppins] px-5 md:px-8'>
@@ -776,7 +782,7 @@ const Home = () => {
 
                                                     <div className='flex flex-col items-start md:gap-y-1'>
                                                         <p className='font-bold text-[14px] md:text-[18px]'>Email US</p>
-                                                        <a href="mailto:contact@cinemafactoryacademy.com" target="_blank" className="  text-[13px] md:text-[14px] text-gray-800 hover:text-gray-600">
+                                                        <a href="mailto:contact@cinemafactoryacademy.com" target="_blank" rel="noreferrer" className="  text-[13px] md:text-[14px] text-gray-800 hover:text-gray-600">
                                                             <p className='flex items-center gap-x-1 '>   contact@cinemafactoryacademy.com </p>
                                                         </a>
                                                     </div>

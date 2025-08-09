@@ -54,9 +54,9 @@ import iconTwo from '../../images/course/photography/2.png'
 import iconThree from '../../images/course/photography/3.png'
 import iconFour from '../../images/course/photography/4.png'
 import iconFive from '../../images/course/photography/5.png'
-import iconSix from '../../images/course/photography/6.png'
-import iconSeven from '../../images/course/photography/7.png'
-import iconEight from '../../images/course/photography/8.png'
+// import iconSix from '../../images/course/photography/6.png'
+// import iconSeven from '../../images/course/photography/7.png'
+// import iconEight from '../../images/course/photography/8.png'
 
 
 

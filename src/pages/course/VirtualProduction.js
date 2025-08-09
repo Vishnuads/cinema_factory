@@ -20,10 +20,10 @@ import who from '../../images/course/virtual/virtual.png'
 
 import orange from '../../images/banner/orange.jpg'
 
-import posterOne from '../../images/poster/mv1.jpg'
-import posterTwo from '../../images/poster/mv2.jpg'
-import posterThree from '../../images/poster/mv3.png'
-import posterFour from '../../images/poster/mv4.png'
+// import posterOne from '../../images/poster/mv1.jpg'
+// import posterTwo from '../../images/poster/mv2.jpg'
+// import posterThree from '../../images/poster/mv3.png'
+// import posterFour from '../../images/poster/mv4.png'
 
 
 import manojOne from '../../images/poster/manoj/mv1.png'
@@ -66,14 +66,14 @@ import aravindFourteen from '../../images/poster/aravind/14.png'
 //icons
 import { RiWhatsappLine } from "react-icons/ri";
 
-import iconOne from '../../images/course/virtual/placement.png'
-import iconTwo from '../../images/course/virtual/expert_mentor.png'
-import iconThree from '../../images/course/virtual/ai.png'
-import iconFour from '../../images/course/virtual/film_shoots.png'
-import iconFive from '../../images/course/virtual/internship.png'
-import iconSix from '../../images/course/virtual/vfx_lab.png'
-import iconSeven from '../../images/course/virtual/industry_experts.png'
-import iconEight from '../../images/course/virtual/files.png'
+// import iconOne from '../../images/course/virtual/placement.png'
+// import iconTwo from '../../images/course/virtual/expert_mentor.png'
+// import iconThree from '../../images/course/virtual/ai.png'
+// import iconFour from '../../images/course/virtual/film_shoots.png'
+// import iconFive from '../../images/course/virtual/internship.png'
+// import iconSix from '../../images/course/virtual/vfx_lab.png'
+// import iconSeven from '../../images/course/virtual/industry_experts.png'
+// import iconEight from '../../images/course/virtual/files.png'
 import { Link } from 'react-router-dom';
 
 
