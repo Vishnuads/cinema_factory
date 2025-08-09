@@ -72,9 +72,9 @@ const Footer = () => {
                             <Link to='/editing' onClick={topPage}>
                                 <a class="my-3 block text-[12px] md:text-[14px] text-white hover:text-gray-300" href="/#"> Editing </a>
                             </Link>
-                            {/* <Link to='/vfx' onClick={topPage}>
+                            <Link to='/vfx' onClick={topPage}>
                                 <a class="my-3 block text-[12px] md:text-[14px] text-white hover:text-gray-300" href="/#"> Visual Effects </a>
-                            </Link> */}
+                            </Link>
                             <Link to='/virtual_production' onClick={topPage}>
                                 <a class="my-3 block text-[12px] md:text-[14px] text-white hover:text-gray-300" href="/#"> Virtual Production </a>
                             </Link>

@@ -177,9 +177,9 @@ const Header = () => {
                                             <Link to='editing' >
                                                 <p class="block px-4 py-2.5 text-sm text-gray-700 hover:text-white hover:bg-gray-900">Editing</p>
                                             </Link>
-                                            {/* <Link to='vfx' >
+                                            <Link to='vfx' >
                                                 <p class="block px-4 py-2.5 text-sm text-gray-700 hover:text-white hover:bg-gray-900">Visual Effects</p>
-                                            </Link> */}
+                                            </Link>
                                             <Link to='virtual_production' >
                                                 <p class="block px-4 py-2.5 text-sm text-gray-700 hover:text-white hover:bg-gray-900">Virtual Production</p>
                                             </Link>
