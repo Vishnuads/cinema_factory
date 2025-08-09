@@ -320,9 +320,9 @@ const Header = () => {
                                                 <Link to="editing" onClick={handleNav} className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                                                     Editing
                                                 </Link>
-                                                {/* <Link to="vfx" onClick={handleNav} className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                                                <Link to="vfx" onClick={handleNav} className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                                                     Visual Effects
-                                                </Link> */}
+                                                </Link>
                                                 <Link to="virtual_production" onClick={handleNav} className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                                                     Virtual Production
                                                 </Link>
